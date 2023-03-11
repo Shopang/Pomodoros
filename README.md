@@ -1,6 +1,7 @@
-# pomodors
+# Pomodors
 
-A new Flutter project.
+플러터 연습 프로젝트입니다.
+시작, 일시정지, 리셋을 구현한 타이머 입니다.
 
 ## Getting Started
 
